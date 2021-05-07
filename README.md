@@ -1,4 +1,4 @@
-# shopapp
+# expense manager app
 
 A new Flutter project.
 
